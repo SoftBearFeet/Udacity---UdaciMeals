@@ -34,7 +34,7 @@ const initialCalendarState = {
 		lunch: null,
 		dinner: null,
 	},
-	satruday: {
+	saturday: {
 		breakfast: null,
 		lunch: null,
 		dinner: null,
